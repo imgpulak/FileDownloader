@@ -1,0 +1,7 @@
+# Intellij related
+.idea/
+*.iml
+
+# Maven build related
+out/
+target/
